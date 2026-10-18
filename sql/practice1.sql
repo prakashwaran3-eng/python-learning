@@ -1,1 +1,1 @@
-create database 
+create table sch(id int,name varchar())
